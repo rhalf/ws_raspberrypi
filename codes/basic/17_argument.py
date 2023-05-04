@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-# sudo python3 activity17.py arg1 arg2
-# import module sys
+# sudo python3 lesson14.py p1 p2 p3
 import sys
 
 def main():

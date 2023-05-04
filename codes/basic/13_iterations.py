@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-# A list
 languages = ["c++", "c#", "java", "php", "python"]         
 
 # while iteration

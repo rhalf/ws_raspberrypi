@@ -3,7 +3,7 @@
 languages = ()
 print(languages)
 # a tuples with items
-languages = ("python", "java", "c++", "c#") s
+languages = ("python", "java", "c++", "c#")
 # accessing         
 print(languages[0])         # python
 print(languages[0:2])       # [python, java]

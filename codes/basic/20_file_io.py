@@ -23,10 +23,10 @@
 
 def main():
         # Open a file
-        f = open("message.txt", "w")
-        f.write( "Python is great.\nNye!\n")
+        file = open("message.txt", "w")
+        file.write( "Python is great.\n Yeah!\n")
         # Close opened file
-        f.close()
+        file.close()
 try:
         main()
 except KeyboardInterrupt:
@@ -34,4 +34,4 @@ except KeyboardInterrupt:
 except Exception as exception:
         print(exception)
 
-
+sudo shutdown now

@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-# assignments
 s1 = 'hi raspberry'
 print(s1)
 s2 = "hello python3"
@@ -21,6 +20,3 @@ print("z" in s1)            # False
 print(s1.index("y"))        # 11
 # length
 print(len(s1))              # 12
-
-
-

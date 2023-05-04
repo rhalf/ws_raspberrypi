@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 def main():
-       raise Exception("I am an exception!")
+       raise Exception("I am the only exception!")
 try:
         main()
 except KeyboardInterrupt:

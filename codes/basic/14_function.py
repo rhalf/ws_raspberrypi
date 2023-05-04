@@ -1,14 +1,16 @@
 #!/usr/bin/python3
-# define func
 def main():
         print("I'm inside main")
-# call defined func
+# call defined function
 main()
-# define func w/ parameter & return statement
+
+# define function w/ parameter & return statement
 def add(a, b):
         return a + b
-result = add(1,2)
+
+result = add(11,22)
 print(result)
+
 
 
 # pass by value integer

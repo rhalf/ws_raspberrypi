@@ -1,6 +1,7 @@
 #!/usr/bin/python3
+
 # an empty list
-drinks = []
+drinks = [] 
 print(drinks)
 # a list with items
 drinks = ["tea", "coffee", 14344, "choco", False]
